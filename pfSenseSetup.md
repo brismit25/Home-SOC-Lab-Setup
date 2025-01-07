@@ -4,9 +4,13 @@ layout: default
 
 # pfSense Virtual Machine Setup
 
+<br>
+
 ## Step 1: Download pfSense
 
 > Download [pfSense](https://www.pfsense.org/download/) (AMD64 ISO IPMI/Virtual Machine)
+
+<br>
 
 ## Step 2: Create New VM for pfSense
 
@@ -22,6 +26,8 @@ layout: default
 >
 > <img src="assets/pfSense/pfSense Config 3.png">
 
+<br>
+
 ## Step 3: Network Settings
 
 > Select the pfSense VM's settings and then network
@@ -35,6 +41,8 @@ layout: default
 > <img src="assets/pfSense/pfSense Network 4.png">
 >
 > Make sure to document the MAC Address for each Adapter for later reference
+
+<br>
 
 ## Step 4: Installing pfSense on VM
 
@@ -78,6 +86,8 @@ layout: default
 >
 > <img src="assets/pfSense/Picture1.png">
 
+<br>
+
 ## Step 5: pfSense Network Configuration
 
 > In pfSense main menu select Option 1
@@ -103,6 +113,8 @@ layout: default
 > <img src="assets/pfSense/Screenshot 2024-12-24 105331.png">
 >
 > <img src="assets/pfSense/Screenshot 2024-12-24 105454.png">
+
+<br>
 
 # _pfSense Setup is complete_
 
