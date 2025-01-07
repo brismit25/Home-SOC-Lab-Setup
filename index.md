@@ -20,4 +20,4 @@ layout: default
 
 <br>
 
-[My Portfolio Homepage](https://brismit25.github.io/)
+[Brian's Portfolio Homepage](https://brismit25.github.io/)
