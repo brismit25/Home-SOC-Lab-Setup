@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Back To Portfolio Homepage](https://brismit25.github.io/).
+[My Portfolio Homepage](https://brismit25.github.io/).
 
 # Oracle VirtualBox Manager Setup
 
@@ -56,3 +56,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 > <img src="assets/pfSense/pfSense Network 4.png">
 >
 > Make sure to document the MAC Address for each Adapter
+
+[Back To Project's Homepage](https://brismit25.github.io/Home-SOC-Lab-Setup/).
+[My Portfolio Homepage](https://brismit25.github.io/).
