@@ -15,3 +15,5 @@ layout: default
 > After VBM is installed, launch Extension Pack installation file and follow install wizard
 
 # _Oracle VBM Setup is complete_
+
+[Back To Project's Homepage](https://brismit25.github.io/Home-SOC-Lab-Setup/)
