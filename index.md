@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # [Oracle VirtualBox Manager Setup](OVBMSetup/VBMSetup.md)
 
-# [pfSense Virtual Machine Setup](pfSenseSetup/pfSenseSetup.md)
+# [pfSense Virtual Machine Setup](pfSenseSetup.md)
 
 <br>
 
