@@ -144,4 +144,4 @@ layout: default
 
 <br>
 
-[My Portfolio Homepage](https://brismit25.github.io/)
+[Back To Project's Homepage](https://brismit25.github.io/Home-SOC-Lab-Setup/)
