@@ -2,11 +2,13 @@
 layout: default
 ---
 
-# Step 1: Download pfSense
+# pfSense Virtual Machine Setup
+
+## Step 1: Download pfSense
 
 > Download [pfSense](https://www.pfsense.org/download/) (AMD64 ISO IPMI/Virtual Machine)
 
-# Step 2: Create New VM for pfSense
+## Step 2: Create New VM for pfSense
 
 > Launch Oracle VBM and select "New"
 > 
@@ -20,7 +22,7 @@ layout: default
 >
 > <img src="assets/pfSense/pfSense Config 3.png">
 
-# Step 3: Network Settings
+## Step 3: Network Settings
 
 > Select the pfSense VM's settings and then network
 >
@@ -34,7 +36,7 @@ layout: default
 >
 > Make sure to document the MAC Address for each Adapter for later reference
 
-# Step 4: Installing pfSense on VM
+## Step 4: Installing pfSense on VM
 
 > Launch the pfSense VM
 >
@@ -76,7 +78,7 @@ layout: default
 >
 > <img src="assets/pfSense/Picture1.png">
 
-# Step 5: pfSense Network Configuration
+## Step 5: pfSense Network Configuration
 
 > In pfSense main menu select Option 1
 >
