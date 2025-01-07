@@ -22,7 +22,17 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Oracle VBM Setup is complete
 
-## Header 3
+
+# pfSense Virtual Machine Setup
+
+### Step 1: Download pfSense
+
+> Download [pfSense](https://www.pfsense.org/download/) (AMD64 ISO IPMI/Virtual Machine)
+
+### Step 2: Create New VM for pfSense
+
+>Launch Oracle VBM and select "New"
+>
 
 ```js
 // Javascript code with syntax highlighting.
