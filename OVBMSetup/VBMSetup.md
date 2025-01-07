@@ -8,7 +8,7 @@ layout: default
 > 
 > Download [Oracle VBM Extension Pack](https://www.virtualbox.org/wiki/Downloads)
 
-## Step 2: Install VBM and Extension Pack
+# Step 2: Install VBM and Extension Pack
 
 > Launch VBM installation file and follow install wizard
 >
