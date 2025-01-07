@@ -21,7 +21,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 >After VBM is installed, launch Extension Pack installation file and follow install wizard
 
 # Oracle VBM Setup is complete
-
+<br>
+<br>
 
 # pfSense Virtual Machine Setup
 
@@ -33,15 +34,15 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 > Launch Oracle VBM and select "New"
 > 
-> <img src="assets/Creating New VM.png">
+> <img src="assets/pfSense/Creating New VM.png">
 >
 > Follow along with below images on completing the VM setup
 >
-> <img src="assets/pfSense Config 1.png">
+> <img src="assets/pfSense/ Config 1.png">
 >
-> <img src="assets/pfSense Config 2.png">
+> <img src="assets/pfSense/ Config 2.png">
 >
-> <img src="assets/pfSense Config 3.png">
+> <img src="assets/pfSense/ Config 3.png">
 
 ### Step 3: Network Settings
 
