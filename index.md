@@ -16,7 +16,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 <br>
 
 # Third
-## [Windows Sever and Active Directory Setup](WinSev&ADSetup.md)
+## [Windows Server and Active Directory Setup](WinSev&ADSetup.md)
 
 <br>
 
