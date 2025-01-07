@@ -10,7 +10,7 @@ layout: default
 
 > Launch Oracle VBM and select "New"
 > 
-> <img src="assets/Creating New VM.png">
+> <img src="assets/pfSense/Creating New VM.png">
 >
 > Follow along with below images on completing the VM setup
 >
