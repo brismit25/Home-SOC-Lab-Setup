@@ -10,8 +10,8 @@ layout: default
 
 ## Step 2: Install VBM and Extension Pack
 
->Launch VBM installation file and follow install wizard
+> Launch VBM installation file and follow install wizard
 >
->After VBM is installed, launch Extension Pack installation file and follow install wizard
+> After VBM is installed, launch Extension Pack installation file and follow install wizard
 
 # _Oracle VBM Setup is complete_
