@@ -32,7 +32,77 @@ layout: default
 >
 > <img src="assets/pfSense/pfSense Network 4.png">
 >
-> Make sure to document the MAC Address for each Adapter
+> Make sure to document the MAC Address for each Adapter for later reference
+
+# Step 4: Installing pfSense on VM
+
+> Launch the pfSense VM
+>
+> <img src="assets/pfSense/Launching pfSense.png">
+>
+> Accept Copyright and Trademark Notice
+>
+> <img src="assets/pfSense/Install pfSense 1.png">
+> 
+> Proceed with pfSense installation
+>
+> <img src="assets/pfSense/Install pfSense 2.png">
+>
+> <img src="assets/pfSense/Install pfSense 3.png">
+> 
+> Verify MAC Addresses
+>
+> <img src="assets/pfSense/Install pfSense 4.png">
+> 
+> WAN Interface will be left as DHCP
+>
+> <img src="assets/pfSense/Install pfSense 5.png">
+> 
+> LAN Interface will be the "GREEN" Network Adapter
+>
+> <img src="assets/pfSense/Install pfSense 8.png">
+> 
+> Assign a Static IP for the LAN Interface
+>
+> <img src="assets/pfSense/Install pfSense 9.png">
+> 
+> Once install completes reboot the VM
+>
+> <img src="assets/pfSense/Install pfSense 6.png">
+>
+> <img src="assets/pfSense/Install pfSense 7.png">
+>
+> If VM gets stuck in installation reboot cycle go into the VM's setting and Storage, then remove the Controller: IDE
+>
+> <img src="assets/pfSense/Picture1.png">
+
+# Step 5: pfSense Network Configuration
+
+> In pfSense main menu select Option 1
+>
+> <img src="assets/pfSense/Screenshot 2024-12-24 103323 (option 1).png">
+>
+> Verify WAN/LAN is set to the correct MAC Addresses, then assign DMZ Adapter to Optional 1 Interface
+>
+> <img src="assets/pfSense/Screenshot 2024-12-24 104518.png">
+>
+> <img src="assets/pfSense/Screenshot 2024-12-24 104639.png">
+>
+> <img src="assets/pfSense/Screenshot 2024-12-24 104730.png">
+>
+> Then confirm the choices
+>
+> <img src="assets/pfSense/Screenshot 2024-12-24 104916.png">
+>
+> Next, configure LAN IP and Subnet (leave gateway as none)
+>
+> <img src="assets/pfSense/Screenshot 2024-12-24 105242.png">
+>
+> <img src="assets/pfSense/Screenshot 2024-12-24 105331.png">
+>
+> <img src="assets/pfSense/Screenshot 2024-12-24 105454.png">
+
+# _pfSense Setup is complete_
 
 <br>
 
