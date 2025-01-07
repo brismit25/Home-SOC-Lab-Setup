@@ -20,7 +20,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 >
 >After VBM is installed, launch Extension Pack installation file and follow install wizard
 
-## Oracle VBM Setup is complete
+# Oracle VBM Setup is complete
 
 ## Header 3
 
