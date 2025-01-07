@@ -1,5 +1,5 @@
-title: Leap Day theme
-description: Leap Day is a theme for GitHub Pages.
-show_downloads: true
+title: Home SOC Lab Setup Project
+description: Developing skills in configuring a Security Operations Center (SOC) for hands-on practice with tools for monitoring, detecting, and responding to threats.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
