@@ -15,4 +15,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 <br>
 
+# Third
+## [Windows Sever and Active Directory Setup](WinSev&ADSetup.md)
+
+<br>
+
 [My Portfolio Homepage](https://brismit25.github.io/)
