@@ -11,7 +11,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 <br>
 
 # Second
-# [pfSense Virtual Machine Setup](pfSenseSetup.md)
+## [pfSense Virtual Machine Setup](pfSenseSetup.md)
 
 <br>
 
