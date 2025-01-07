@@ -26,7 +26,7 @@ layout: default
 >
 > In Network settings configure the following
 >
-> <img src="assets/pfSense/pfSense Network 2.png">
+> <img src="assets/pfSense/Screenshot 2025-01-07 133847.png">
 >
 > <img src="assets/pfSense/pfSense Network 3.png">
 >
