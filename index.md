@@ -8,13 +8,13 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Oracle VirtualBox Manager Setup
 
-#### Step 1: Download VBM Software
+### Step 1: Download VBM Software
 
 > Download [Oracle VBM](https://www.virtualbox.org/wiki/Downloads)
 > 
 > Download [Oracle VBM Extension Pack](https://www.virtualbox.org/wiki/Downloads)
 
-#### Step 2: Install VBM and Extension Pack
+### Step 2: Install VBM and Extension Pack
 
 >Launch VBM installation file and follow install wizard
 >
