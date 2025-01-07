@@ -34,4 +34,6 @@ layout: default
 >
 > Make sure to document the MAC Address for each Adapter
 
+<br>
+
 [Back To Project's Homepage](https://brismit25.github.io/Home-SOC-Lab-Setup/)
