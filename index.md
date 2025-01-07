@@ -6,17 +6,23 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Back To Portfolio Homepage](https://brismit25.github.io/).
 
-## Header 1
+# Oracle VirtualBox Manager Setup
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+#### Step 1: Download VBM Software
 
-### Header 2
+> Download [Oracle VBM](https://www.virtualbox.org/wiki/Downloads)
+> 
+> Download [Oracle VBM Extension Pack](https://www.virtualbox.org/wiki/Downloads)
 
-> This is a blockquote following a header.
+#### Step 2: Install VBM and Extension Pack
+
+>Launch VBM installation file and follow install wizard
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+>After VBM is installed, launch Extension Pack installation file and follow install wizard
 
-### Header 3
+## Oracle VBM Setup is complete
+
+## Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -33,19 +39,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-### Header 4
+## Header 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-### Header 5
+## Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-### Header 6
+## Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -54,25 +60,25 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+## There's a horizontal rule below this.
 
 * * *
 
-### Here is an unordered list:
+## Here is an unordered list:
 
 *   Item foo
 *   Item bar
 *   Item baz
 *   Item zip
 
-### And an ordered list:
+## And an ordered list:
 
 1.  Item one
 1.  Item two
 1.  Item three
 1.  Item four
 
-### And a nested list:
+## And a nested list:
 
 - level 1 item
   - level 2 item
@@ -88,16 +94,16 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
+## Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+## Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+## Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
