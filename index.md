@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-# [Oracle VirtualBox Manager Setup](OVBMSetup/VBMSetup.md)
+# [Oracle VirtualBox Manager Setup](OVBMSetup.md)
 
 # [pfSense Virtual Machine Setup](pfSenseSetup.md)
 
