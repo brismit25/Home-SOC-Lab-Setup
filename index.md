@@ -38,4 +38,10 @@ layout: default
 
 <br>
 
+# Seventh
+
+## [Kali Linux Setup](KaliLinSetup.md)
+
+<br>
+
 [Brian's Portfolio Homepage](https://brismit25.github.io/)
