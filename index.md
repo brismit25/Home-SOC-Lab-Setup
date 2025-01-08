@@ -26,4 +26,10 @@ layout: default
 
 <br>
 
+# Fifth
+
+## [Windows Sysmon Setup](WinSysmonSetup.md)
+
+<br>
+
 [Brian's Portfolio Homepage](https://brismit25.github.io/)
