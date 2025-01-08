@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Follow along with the below setup guides to create your own Home Security Operations Center Lab.
+## Follow along with the below setup guides to create your own Home Security Operations Center Lab.
 
 ## [Oracle VirtualBox Manager Setup](OVBMSetup.md)
 
