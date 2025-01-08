@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Windows 11 Setup
+# Kali Linux Setup
 
-## Step 1: Download Windows 11
+## Step 1: Download Kali Linux
 
-> Download [Windows 11 64 bit](https://www.microsoft.com/en-us/software-download/windows11)
+> Download [Kali Linux 64 bit](https://www.kali.org/get-kali/#kali-platforms)
 
 <br>
 
@@ -14,112 +14,91 @@ layout: default
 
 > Launch Oracle VBM and select "New"
 >
-> <img src="assets/Win11/Screenshot 2025-01-02 065719.png">
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 073314.png">
 >
 > Follow along with below images on completing the VM setup
 >
-> <img src="assets/Win11/Screenshot 2025-01-02 072028.png">
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 073431.png">
 >
-> <img src="assets/Win11/Screenshot 2025-01-02 072541.png">
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 073755.png">
 >
-> <img src="assets/Win11/Screenshot 2025-01-02 073024.png">
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 074039.png">
 
 <br>
 
 ## Step 3: Network Settings
 
-> Select the Windows 11 VM's settings and then network
+> Select the Kali Linux VM's settings and then network
 >
-> <img src="assets/Win11/Screenshot 2025-01-02 073758.png">
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 074220.png">
 >
 > In Network settings configure the following
 > 
-> <img src="assets/Win11/Screenshot 2025-01-02 073931.png">
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 074257.png">
 
 <br>
 
-## Step 4: Installing Windows 11 on VM
+## Step 4: Installing Kali Linux on VM
 
-> Launch the Windows 11 VM
+> Launch the Kali Linux VM
 >
-> <img src="assets/Win11/Screenshot 2025-01-02 074612.png">
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 074506.png">
 >
-> Once VM launches, follow through the Windows 11 Installation process
+> Once VM launches, follow through the Kali Linux Installation process
 >
-> <img src="assets/Win11/Screenshot 2025-01-02 074918.png">
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 074607.png">
 >
-> <img src="assets/Win11/Screenshot 2025-01-02 074927.png">
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 074704.png">
 >
-> <img src="assets/Win11/Screenshot 2025-01-02 075157.png">
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 074734.png">
 >
-> <img src="assets/Win11/Screenshot 2025-01-02 075300.png">
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 074756.png">
 >
-> <img src="assets/Win11/Screenshot 2025-01-02 075526.png">
+> Linux will prompt to configure Network Settings due to not have network connectivity
 >
-> <img src="assets/Win11/Screenshot 2025-01-02 075607.png">
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 075211.png">
 >
-> <img src="assets/Win11/Screenshot 2025-01-02 075656.png">
+> Configure a static IP address with subnet mask
 >
-> <img src="assets/Win11/Screenshot 2025-01-02 075748.png">
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 075241.png">
 >
-> After Windows 11 installs, the system will reboot
+> Gateway will be the _LAN_ IP Address from pfSense VM
 >
-> After the reboot, follow through the Windows Setup process
->
-> On the select country or region screen, push Shift-F10 to open Command Prompt. In Command Prompt enter OOBE\BYPASSNRO and the system will reboot (this bypasses the Network requirement and Microsoft account sign-in)
->
-> <img src="assets/Win11/Screenshot 2025-01-02 081337.png">
->
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 075630.png">
 > 
-> <img src="assets/Win11/Screenshot 2025-01-02 082254.png">
+> _Name Servers_ will be the IP address of your Windows Server, and a backup known DNS server like Google
 >
-> Complete the Local Account Setup
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 075947.png">
 >
-> <img src="assets/Win11/Screenshot 2025-01-02 082628.png">
+> Then proceed with the final installation options below
+>
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 080637.png">
+>
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 080926.png">
+>
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 081037.png">
+>
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 081459.png">
+>
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 081622.png">
+>
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 082330.png">
+>
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 082459.png">
+>
+> Install GRUB boot loader
+>
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 083249.png">
+>
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 083317.png">
+>
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 083736.png">
+>
+> <img src="assets/KaliLinSetup/Screenshot 2025-01-07 084226.png">
 
 <br>
 
-## Step 5: Configuring Windows 11
-
-> Login to Windows 11
->
-> Open Network & Internet Settings
->
-> <img src="assets/Win11/Screenshot 2025-01-02 083447.png">
->
-> Follow below images to configure Window 11 IPv4 Network settings
->
-> <img src="assets/Win11/Screenshot 2025-01-02 083544.png">
->
-> <img src="assets/Win11/Screenshot 2025-01-02 083613.png">
->
-> <img src="assets/Win11/Screenshot 2025-01-02 083732.png">
->
-> <img src="assets/Win11/Screenshot 2025-01-02 084127.png">
->
-> Assign a Static IP, Subnet, and Gateway ("LAN" IP Address from pfSense VM). The Preferred DNS server will be the IP Address of the Windows Server machine, then another known DNS server (ex. Google's DNS Server)
->
-> <img src="assets/Win11/Screenshot 2025-01-02 084716.png">
->
-> Next rename Windows 11 computer and reboot
->
-> <img src="assets/Win11/Screenshot 2025-01-02 092417.png">
->
-> <img src="assets/Win11/Screenshot 2025-01-02 092437.png">
->
-> <img src="assets/Win11/Screenshot 2025-01-02 092446.png">
->
-> After the reboot is complete, follow below to add computer to the domain created on Windows Server
->
-> <img src="assets/Win11/Screenshot 2025-01-02 092931.png">
->
-> <img src="assets/Win11/Screenshot 2025-01-02 093014.png">
->
-> <img src="assets/Win11/Screenshot 2025-01-02 093318.png">
-
-<br>
-
-# _Windows 11 Setup is complete_
+# _Kali Linus Setup is complete_
 
 <br>
 
