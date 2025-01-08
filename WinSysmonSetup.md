@@ -2,27 +2,33 @@
 layout: default
 ---
 
-# Oracle VirtualBox Manager Setup
+# Windows Sysmon Setup
 
 <br>
 
-## Step 1: Download VBM Software
+## Step 1: Download Windows Sysmon Software
 
-> Download [Oracle VBM](https://www.virtualbox.org/wiki/Downloads)
+> On the Windows Server and Windows 11 VM, download [Windows Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 > 
-> Download [Oracle VBM Extension Pack](https://www.virtualbox.org/wiki/Downloads)
-
-<br>
-
-## Step 2: Install VBM and Extension Pack
-
-> Launch VBM installation file and follow install wizard
+> Also download [Sysmon Configuration File](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml)
 >
-> After VBM is installed, launch Extension Pack installation file and follow install wizard
+> Save the Sysmon Configuration File into the Windows Sysmon Folder
 
 <br>
 
-# _Oracle VBM Setup is complete_
+## Step 2: Install Sysmon
+
+> Launch Powershell in Administrator mode
+>
+> Change directory to the Windows Sysmon Folder
+>
+> Install Sysmon with command **_sysmon.exe -accepteula -i YOURFILE.xml_**
+> 
+> <img src="assets/WinSysmon/Screenshot 2025-01-02 100251.png">
+
+<br>
+
+# _Windows Sysmon Setup is complete_
 
 <br>
 
