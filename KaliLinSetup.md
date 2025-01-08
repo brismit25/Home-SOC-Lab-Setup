@@ -74,6 +74,8 @@ layout: default
 >
 > <img src="assets/KaliLinSetup/Screenshot 2025-01-07 080637.png">
 >
+> Input the domain name that was created with the Active Directory setup 
+>
 > <img src="assets/KaliLinSetup/Screenshot 2025-01-07 080926.png">
 >
 > <img src="assets/KaliLinSetup/Screenshot 2025-01-07 081037.png">
