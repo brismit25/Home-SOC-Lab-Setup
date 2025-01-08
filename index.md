@@ -2,31 +2,33 @@
 layout: default
 ---
 
-# [Oracle VirtualBox Manager Setup](OVBMSetup.md)
+# Follow along with the below setup guides to create your own Home Security Operations Center Lab.
+
+## [Oracle VirtualBox Manager Setup](OVBMSetup.md)
 
 <br>
 
-# [pfSense Virtual Machine Setup](pfSenseSetup.md)
+## [pfSense Virtual Machine Setup](pfSenseSetup.md)
 
 <br>
 
-# [Windows Server and Active Directory Setup](WinSev&ADSetup.md)
+## [Windows Server and Active Directory Setup](WinSev&ADSetup.md)
 
 <br>
 
-# [Windows 11 Setup](Win11Setup.md)
+## [Windows 11 Setup](Win11Setup.md)
 
 <br>
 
-# [Windows Sysmon Setup](WinSysmonSetup.md)
+## [Windows Sysmon Setup](WinSysmonSetup.md)
 
 <br>
 
-# [CrowdSec Setup](CrowdSecSetup.md)
+## [CrowdSec Setup](CrowdSecSetup.md)
 
 <br>
 
-# [Kali Linux Setup](KaliLinSetup.md)
+## [Kali Linux Setup](KaliLinSetup.md)
 
 <br>
 
