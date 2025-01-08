@@ -32,4 +32,10 @@ layout: default
 
 <br>
 
+# Sixth
+
+## [CrowdSec Setup](CrowdSecSetup.md)
+
+<br>
+
 [Brian's Portfolio Homepage](https://brismit25.github.io/)
