@@ -2,45 +2,30 @@
 layout: default
 ---
 
-# First
-
-## [Oracle VirtualBox Manager Setup](OVBMSetup.md)
+# [Oracle VirtualBox Manager Setup](OVBMSetup.md)
 
 <br>
 
-# Second
-
-## [pfSense Virtual Machine Setup](pfSenseSetup.md)
+# [pfSense Virtual Machine Setup](pfSenseSetup.md)
 
 <br>
 
-# Third
-
-## [Windows Server and Active Directory Setup](WinSev&ADSetup.md)
+# [Windows Server and Active Directory Setup](WinSev&ADSetup.md)
 
 <br>
 
-# Fourth
+# [Windows 11 Setup](Win11Setup.md)
 
-## [Windows 11 Setup](Win11Setup.md)
+<br>
+# [Windows Sysmon Setup](WinSysmonSetup.md)
 
 <br>
 
-# Fifth
-
-## [Windows Sysmon Setup](WinSysmonSetup.md)
+# [CrowdSec Setup](CrowdSecSetup.md)
 
 <br>
 
-# Sixth
-
-## [CrowdSec Setup](CrowdSecSetup.md)
-
-<br>
-
-# Seventh
-
-## [Kali Linux Setup](KaliLinSetup.md)
+# [Kali Linux Setup](KaliLinSetup.md)
 
 <br>
 
